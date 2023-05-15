@@ -3,5 +3,5 @@
 /audios_test
 /audios_train
 /audios_valid
-/dataset
-/docs
+/docs/*
+!/docs/Макаров М.И. ПИ20-5 Пояснительная записка.docx
